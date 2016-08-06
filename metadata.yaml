@@ -1,0 +1,25 @@
+_repo: '-----------------_10752'
+_version: 0.0.1
+alternative_title: Thoughts in Heads
+creator:
+  author:
+    agent_name: Stojan, Harry
+    alias: Стоянов, Хари
+    gutenberg_agent_id: '3664'
+    url: http://www.gutenberg.org/2009/agents/3664
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Stojan
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10752'
+language: bg
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PG'
+- !lcsh 'Fiction'
+- GITenberg
+title: Мислите в главите
+url: http://www.gutenberg.org/ebooks/10752
